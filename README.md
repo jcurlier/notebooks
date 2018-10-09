@@ -1,1 +1,1 @@
-# gde-ai-test-notebooks
+# notebooks
